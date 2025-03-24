@@ -1,6 +1,8 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
+  "homepage": "https://johnmikoacuesta.github.io/porfolio/",
+  "author": "John Miko Acuesta",
   "private": true,
   "scripts": {
     "dev": "next dev",
