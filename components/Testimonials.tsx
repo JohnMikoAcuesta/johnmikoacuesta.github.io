@@ -5,7 +5,7 @@ function Testimonials() {
   return (
     <section id="testimonials" className="relative max-w-7xl mx-auto mb-3 mt-32">
         <div className="p-4 text-4xl break-words bg-linear-to-r from-white to-slate-500 inline-block text-transparent bg-clip-text">
-          Testomonials
+          Testimonials
         </div>
         <div className="grid grid-cols-2 border-light">
             <div className="flex items-center justify-start gap-4 p-6 mt-5">
