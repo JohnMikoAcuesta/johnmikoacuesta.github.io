@@ -36,6 +36,7 @@ export const LOGO_SOCIALS = [
     { url: '/socials/linkedin.svg', key: 'linkedin', link: 'https://www.google.com/'}
 ];
 
+// FAQ Items
 export const FAQ_ITEMS = [
     {
       id: "1",
