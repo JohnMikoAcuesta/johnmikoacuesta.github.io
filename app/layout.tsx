@@ -4,6 +4,8 @@ import "./globals.css";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import Link from "next/link";
+import Head from 'next/head'
+import Script from "next/script";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -27,6 +29,10 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <Head>
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-39BLJXT9ZB"></script>
+      <Script src="third-party-google.js" />
+      </Head>
       <body>
         <Navbar />
         <main className="relative overflow-hidden">
