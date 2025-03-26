@@ -6,7 +6,6 @@ import React from "react";
 import Projects from "@/components/Projects";
 import Testimonials from "@/components/Testimonials";
 import Floating from "@/components/Floating";
-import Faq from "@/components/Faq";
 
 export default function Home() {
   return (
@@ -18,7 +17,6 @@ export default function Home() {
       <Experience />
       <Testimonials />
       <Projects />
-      <Faq />
     </>
   );
 }
