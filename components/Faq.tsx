@@ -1,6 +1,6 @@
 import React from "react";
 
-import * as AccordionPrimitive from "react-accordion";
+import * as AccordionPrimitive from "@/modules/accordion/index";
 import { PlusIcon } from "lucide-react";
 import { FAQ_ITEMS } from "@/constants";
 
