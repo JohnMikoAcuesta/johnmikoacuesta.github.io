@@ -39,28 +39,28 @@ export const LOGO_SOCIALS = [
 // FAQ Items
 export const FAQ_ITEMS = [
     {
-      id: "1",
+      key: "faq1",
       title: "What services do you offer?",
       sub: "What specific areas I specialize",
       content:
         "I specialize in web design, web development and graphic design."
     },
     {
-      id: "2",
+      key: "faq2",
       title: "What is your typical process for a project?",
       sub: "What are the initial steps?",
       content:
         "My typical process begins with an initial consultation to understand your project goals, target audience, and specific requirements."
     },
     {
-      id: "3",
+      key: "faq3",
       title: "What technologies or tools do you use?",
       sub: "What programming languages and design tools I work with?",
       content:
         "I am proficient in HTML, CSS, PHP, JS, Typescript and little touch of Dart also for designing tools I am proficient is Adobe suite, Figma, and Canva."
     },
     {
-      id: "4",
+      key: "faq4",
       title: "What is your availability?",
       sub: "What is my typical response time for inquiries?",
       content:
