@@ -8,6 +8,7 @@ import Testimonials from "@/components/Testimonials";
 import Floating from "@/components/Floating";
 import Faq from "@/components/Faq";
 import Script from "next/script";
+import Blogs from "@/components/Blogs";
 
 export default function Home() {
   return (
@@ -19,6 +20,7 @@ export default function Home() {
       <Experience />
       <Testimonials />
       <Projects />
+      <Blogs />
       <Faq />
       <Script src="main.js" />
     </>
