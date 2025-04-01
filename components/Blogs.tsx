@@ -4,7 +4,7 @@ import React from 'react'
 
 function Blogs() {
   return (
-    <section id="testimonials" className="relative max-w-7xl mx-auto mb-3 mt-32 text-white">
+    <section id="blogs" className="relative max-w-7xl mx-auto mb-3 mt-32 text-white">
         <div className="p-4 text-4xl break-words bg-linear-to-r from-white to-slate-500 inline-block text-transparent bg-clip-text mb-4">
           Blogs
         </div>
