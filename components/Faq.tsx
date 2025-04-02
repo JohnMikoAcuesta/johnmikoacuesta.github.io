@@ -3,7 +3,7 @@ import React from "react";
 
 function Faq() {
   return (
-    <section id="testimonials" className="relative max-w-7xl mx-auto mt-12 mb-32 text-white">
+    <section id="faq" className="relative max-w-7xl mx-auto mt-12 mb-32 text-white">
         <div className="p-4 text-4xl break-words bg-linear-to-r from-white to-slate-500 inline-block text-transparent bg-clip-text">
             FAQ
         </div>
