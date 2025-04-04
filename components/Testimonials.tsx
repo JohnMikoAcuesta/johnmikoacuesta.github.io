@@ -72,7 +72,7 @@ function Testimonials() {
                 </div>
                 <div className="flex flex-col truncate">
                     <p className="truncate text-xl font-medium text-gray-950 dark:text-white">
-                        Gelan Dale Dela Peña
+                        Gelan Dale Tan
                     </p>
                     <p className="truncate text-sm text-gray-500 dark:text-gray-400">
                         Marketing Performance Executive, fäm Properties
@@ -98,7 +98,7 @@ function Testimonials() {
                 </div>
                 <div className="flex flex-col truncate">
                     <p className="truncate text-xl font-medium text-gray-950 dark:text-white">
-                        Kirt Bryan Reguyal
+                        Kirt Brian Reguyal
                     </p>
                     <p className="truncate text-sm text-gray-500 dark:text-gray-400">
                         Software Engineer, Armada Logics
