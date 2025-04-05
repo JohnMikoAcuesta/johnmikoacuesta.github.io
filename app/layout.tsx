@@ -49,7 +49,7 @@ export default function RootLayout({
           }}></script>
       </head>
       <body>
-      <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TWD8LW82"
+      <noscript className="invisible hidden"><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TWD8LW82"
       height="0" width="0"></iframe></noscript>
         <Navbar />
         <main className="relative overflow-hidden">
