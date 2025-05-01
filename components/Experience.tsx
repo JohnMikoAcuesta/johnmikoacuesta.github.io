@@ -7,6 +7,18 @@ function Experience() {
         <div className="p-4 text-4xl break-words bg-linear-to-r from-white to-slate-500 inline-block text-transparent bg-clip-text">
           Experience
         </div>
+        <Link href="https://binghatti.com">
+          <div className="text-white mt-5 p-4 text-xl border-light">
+            <div className="grid grid-cols-2">
+              <h1 className="text-start">Graphic Designer <br />
+                <span><small className="text-slate-300">Full-time</small></span>
+              </h1>
+              <h1 className="text-end hover:text-blue-300">Binghatti <br />
+                <span><small className="text-slate-300">May 2025 - Present</small></span>
+              </h1>
+            </div>
+          </div>
+        </Link>
         <Link href="https://famproperties.com">
           <div className="text-white mt-5 p-4 text-xl border-light">
             <div className="grid grid-cols-2">
@@ -14,7 +26,7 @@ function Experience() {
                 <span><small className="text-slate-300">Full-time</small></span>
               </h1>
               <h1 className="text-end hover:text-blue-300">fäm Properties <br />
-                <span><small className="text-slate-300">Apr 2024 - Present</small></span>
+                <span><small className="text-slate-300">Apr 2024 - Apr 2025</small></span>
               </h1>
             </div>
           </div>
